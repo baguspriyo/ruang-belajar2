@@ -44,3 +44,6 @@ Di repository ini, buka file bernama `case-study.md`. Disana akan ada case study
 
 - Kamu harus membagikan Github repository yang berisi commit history secara public pada profile github dan pull request sesuai skenario pada file `case-study.md`.
 - Link Github repository tersebut yang nantinya akan kamu submit di LMS
+
+- Bagus Priyo Utomo - 2749081
+- Bob
